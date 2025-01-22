@@ -62,7 +62,10 @@ public class AutomateBrowserr{
 		 * driver.quit(); // will close all browser pages open from main page --quite shall quiet the Driver
 		 * driver.close(); // Will close only main page --close shall close the current window
 		 */
-
+		
+		System.out.println("Post Jira 1");
+		System.out.println("Post Jira 2 ");
+		System.out.println("Post Jira 3 ");
 	}
 
 
